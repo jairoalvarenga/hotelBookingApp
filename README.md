@@ -1,1 +1,1 @@
-# hotelBookingApp
+# HotelBookingApp UI
